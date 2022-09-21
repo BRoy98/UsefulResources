@@ -1,6 +1,7 @@
 ### Websites for font download:
 - https://fontesk.com/
 - https://fontshub.pro/
+- https://fontsrepo.com/
 
 ---
 
